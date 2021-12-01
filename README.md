@@ -6,6 +6,13 @@
   - [마피아컴퍼니 사이트](http://www.mapiacompany.com/)
   - [wanted 채용공고 링크](https://www.wanted.co.kr/company/6137)
 
+## 과제 후기
+- https://velog.io/@burnkim61/프리온보딩-과제-2
+
+## 팀 Repository
+- https://github.com/Wanted-Preonboarding-Backend-1st-G5/Assignment2
+
+
 ## Members
 |이름   |github                   |담당 기능|
 |-------|-------------------------|--------------------|
@@ -17,6 +24,9 @@
 
 
 ## 과제 내용
+  <details>
+  <summary><b>과제 내용 자세히 보기</b></summary>
+<div markdown="1">
 > 아래의 상황을 읽고 요구사항을 구현해주세요!
 >
 - 마피아컴퍼니 선호 기술스택
@@ -83,6 +93,8 @@
 
 - **FastAPI 프레임워크 요구사항**
     - Restful API로 구현하셨을 경우, FastAPI의 OpenAPI로 API 문서화해주세요.
+  
+  </details>
 
 
 ## 사용 기술 및 tools
@@ -163,6 +175,9 @@
 
 
 ## 설치 및 실행 방법
+  <details>
+  <summary><b>설치 및 실행  자세히 보기</b></summary>
+<div markdown="1">
 ###  Local 개발 및 테스트용
 
 1. 해당프로젝트를 clone 하고, 프로젝트 폴더로 들어간다.
@@ -232,7 +247,8 @@
     ```bash
     docker-compose -f docker-compose-deploy.yml up -d
     ```
-
+  </details>
+    
 ## 폴더 구조
 
 ```bash
@@ -267,13 +283,6 @@
 │   └── nginx
         └── nginx.conf
 ```
-
-## TIL정리 (Blog)
-- 김태우 : https://velog.io/@burnkim61/프리온보딩-과제-2
-- 고유영 : https://lunayyko.github.io/wecode/2021/11/08/wantedxwecode-2-mafiacompany/
-- 박지원 : https://yesjiwon5304.tistory.com/32
-- 최신혁 :
-- 박세원 :
 
 # Reference
 이 프로젝트는 원티드x위코드 백엔드 프리온보딩 과제 일환으로 마피아컴퍼니에서 출제한 과제를 기반으로 만들었습니다.
