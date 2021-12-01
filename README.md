@@ -27,8 +27,9 @@
   <details>
   <summary><b>과제 내용 자세히 보기</b></summary>
 <div markdown="1">
+  
 > 아래의 상황을 읽고 요구사항을 구현해주세요!
->
+
 - 마피아컴퍼니 선호 기술스택
     - Python/FastAPI
     - Javascript 사용시 선호 프레임워크 없음
@@ -178,11 +179,12 @@
   <details>
   <summary><b>설치 및 실행  자세히 보기</b></summary>
 <div markdown="1">
+  
 ###  Local 개발 및 테스트용
 
 1. 해당프로젝트를 clone 하고, 프로젝트 폴더로 들어간다.
     ```bash
-    git clone https://github.com/Wanted-Preonboarding-Backend-1st-G5/Assignment2
+    git clone https://github.com/jotasic/wanted-Assignment2-mapiacompany.git
     cd Assignment2
     ```
 2. 가상 환경을 만들고 프로젝트에 사용한 python package를 받는다.
@@ -215,7 +217,7 @@
 1. 해당프로젝트를 clone 하고, 프로젝트 폴더로 들어간다.
     
     ```bash
-    git clone https://github.com/Wanted-Preonboarding-Backend-1st-G5/Assignment2
+    git clone https://github.com/jotasic/wanted-Assignment2-mapiacompany.git
     cd Assignment2
     ```
 
